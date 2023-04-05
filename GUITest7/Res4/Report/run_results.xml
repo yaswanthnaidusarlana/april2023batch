@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>Type mismatch: 'printf'</Name>
+    <ErrorText>Type mismatch: 'printf'</ErrorText>
+    <Description>&lt;BR/&gt;Line (15): &amp;quot;printf(&amp;quot;a grade&amp;quot;)&amp;quot;.</Description>
+    <StartTime>2023-03-02 16:50:59</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[printf("a grade")]]></Scripts>
+          <LineNo><![CDATA[15]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>a2bb5b4cc6be489fbd9f6864485e970b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Type mismatch: 'printf'</Name>
+    <ErrorText>Type mismatch: 'printf'</ErrorText>
+    <Description>&lt;BR/&gt;Line (15): &amp;quot;printf(&amp;quot;a grade&amp;quot;)&amp;quot;.</Description>
+    <StartTime>2023-03-02 16:51:02</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[printf("a grade")]]></Scripts>
+          <LineNo><![CDATA[15]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>a2bb5b4cc6be489fbd9f6864485e970b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Type mismatch: 'printf'</Name>
+    <ErrorText>Type mismatch: 'printf'</ErrorText>
+    <Description>&lt;BR/&gt;Line (15): &amp;quot;printf(&amp;quot;a grade&amp;quot;)&amp;quot;.</Description>
+    <StartTime>2023-03-02 16:51:09</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[printf("a grade")]]></Scripts>
+          <LineNo><![CDATA[15]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>a2bb5b4cc6be489fbd9f6864485e970b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Type mismatch: 'printf'</Name>
+    <ErrorText>Type mismatch: 'printf'</ErrorText>
+    <Description>&lt;BR/&gt;Line (15): &amp;quot;printf(&amp;quot;a grade&amp;quot;)&amp;quot;.</Description>
+    <StartTime>2023-03-02 16:51:52</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[printf("a grade")]]></Scripts>
+          <LineNo><![CDATA[15]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>a2bb5b4cc6be489fbd9f6864485e970b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2023-03-02 16:51:55</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>bc32f9c262bb47a68f0d07138f1d47af</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2023-03-02 16:50:51</StartTime>
+    <Duration>64</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>7a80bf65bce049139324d3eaff53727f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2023-03-02 16:50:51</StartTime>
+    <Duration>64</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>81140fc8ee15406c8f6e1086e5a73ecd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITest7</Name>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.03</ToolVersion>
+    <Description />
+    <StartTime>2023-03-02 16:50:47</StartTime>
+    <Duration>68</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>985aaee98eba4464810b04148a73af6f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (India)</Locale>
+      <User>Administrator</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU E5-2696 v2 @ 2.50GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16383</TotalMemory>
+      <HostName>WINDOWS-UNR7VLH</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res4</ResultName>
+    <RunStartTime>2023-03-02 16:50:47</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.03</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>
